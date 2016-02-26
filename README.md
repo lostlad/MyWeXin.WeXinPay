@@ -1,2 +1,0 @@
-# MyWeXin.WeXinPay
-WeXin
